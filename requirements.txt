@@ -1,0 +1,7 @@
+qrcode
+opencv-python
+numpy
+streamlit
+streamlit_option_menu
+datetime
+Pillow
